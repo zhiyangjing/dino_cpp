@@ -1,3 +1,0 @@
-/home/jing/allprojects/clang/Games/Dino/cmake-build-release/CMakeFiles/dino_dev.dir
-/home/jing/allprojects/clang/Games/Dino/cmake-build-release/CMakeFiles/edit_cache.dir
-/home/jing/allprojects/clang/Games/Dino/cmake-build-release/CMakeFiles/rebuild_cache.dir
